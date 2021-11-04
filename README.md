@@ -3,9 +3,13 @@
 Para rodar os códigos basta escolher a pasta "codigo" como diretório de trabalho.
 
 Será necessário ter instalado no python:
+
 tensorflow > 2
+
 cv2
+
 numpy
+
 pandas
 
 Para rodar, basta entrar em cada arquivo separadamente e o executar interativamente, ou 
