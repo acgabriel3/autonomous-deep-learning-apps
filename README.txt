@@ -12,7 +12,5 @@ executar o arquivo em si.
 O principal arquivo é o "gan_ADLA" o qual implementa e treina as rede neurais condicionais
 adversárias citadas no relatório final. 
 
-A imagem resultante está no diretório apresentação, junto com a apresentação do trabalho.
-
 Os dados estão na pasta "data" em "app_minimo".
 
