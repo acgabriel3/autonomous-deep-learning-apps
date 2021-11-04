@@ -1,0 +1,17 @@
+min1;max1;min2;max2;tela;proxima_tela
+107;241;43;870;tela_inicial.png;tela_inicial_botao1_clicado.png
+107;241;43;870;tela_inicial_botao1_clicado.png;tela_inicial.png
+281;431;43;870;tela_inicial.png;tela_inicial_botao2_clicado.png
+281;431;43;870;tela_inicial_botao2_clicado.png;tela_inicial.png
+281;431;43;870;tela_inicial_botao1_clicado.png;tela_inicial_botao1_clicado_botao2_clicado.png
+281;431;43;870;tela_inicial_botao1_clicado_botao2_clicado.png;tela_inicial_botao1_clicado.png
+107;241;43;870;tela_inicial_botao2_clicado.png;tela_inicial_botao1_clicado_botao2_clicado.png
+107;241;43;870;tela_inicial_botao1_clicado_botao2_clicado.png;tela_inicial_botao2_clicado.png
+761;875;308;575;tela_inicial.png;predicao_pessoa_infeliz_nao_acredita_no_poder_da_ia.png
+750;850;308;575;predicao_pessoa_infeliz_nao_acredita_no_poder_da_ia.png;tela_inicial.png
+761;875;308;575;tela_inicial_botao1_clicado.png;predicao_pessoa_feliz_nao_acredita_no_poder_da_ia.png
+750;850;308;575;predicao_pessoa_feliz_nao_acredita_no_poder_da_ia.png;tela_inicial.png
+761;875;308;575;tela_inicial_botao2_clicado.png;predicao_pessoa_infeliz_acredita_no_poder_da_ia.png
+750;850;308;575;predicao_pessoa_infeliz_acredita_no_poder_da_ia.png;tela_inicial.png
+761;875;308;575;tela_inicial_botao1_clicado_botao2_clicado.png;predicao_pessoa_feliz_acredita_no_poder_da_ia.png
+750;850;308;575;predicao_pessoa_feliz_acredita_no_poder_da_ia.png;tela_inicial.png
